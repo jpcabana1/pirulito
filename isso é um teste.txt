@@ -1,3 +1,10 @@
 git status
 
-git add . vai tudo boy
+git add . //Enviar todos
+
+git commit -m "Mensagem"
+
+git push origin master(Branch)
+
+git pull origin master(Branch)
+
